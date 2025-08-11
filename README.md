@@ -14,5 +14,5 @@ Simple Retrieval-Augmented-Generation (RAG) demo that answers user questions usi
 ## Setup (Linux / macOS / WSL)
 1. Clone repo:
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/simmy00/Pdf-rag-qa/
 cd pdf-rag-qa
